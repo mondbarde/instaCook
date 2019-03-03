@@ -1,0 +1,1 @@
+Highly configurable <select> element to satisfy all the options life throws us inside dropdown lists.
